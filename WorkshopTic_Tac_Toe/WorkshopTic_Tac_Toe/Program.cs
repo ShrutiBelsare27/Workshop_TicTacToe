@@ -10,6 +10,9 @@ namespace WorkshopTic_Tac_Toe
             Console.WriteLine("Welcome to tictactoe");
             TicTacToeGame uc1 = new TicTacToeGame();
             uc1.Board();
+
+            ChooseUserLetter uc2 = new ChooseUserLetter();
+            uc2.chooseUserLetter();
         }
     }
 }
