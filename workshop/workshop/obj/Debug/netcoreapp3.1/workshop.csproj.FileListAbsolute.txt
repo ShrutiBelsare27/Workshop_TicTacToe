@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\tictactoe\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.exe
+C:\Users\User\Desktop\tictactoe\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.deps.json
+C:\Users\User\Desktop\tictactoe\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.runtimeconfig.json
+C:\Users\User\Desktop\tictactoe\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.runtimeconfig.dev.json
+C:\Users\User\Desktop\tictactoe\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.dll
+C:\Users\User\Desktop\tictactoe\workshop\workshop\bin\Debug\netcoreapp3.1\workshop.pdb
+C:\Users\User\Desktop\tictactoe\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\tictactoe\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\tictactoe\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\tictactoe\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.AssemblyInfo.cs
+C:\Users\User\Desktop\tictactoe\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tictactoe\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.dll
+C:\Users\User\Desktop\tictactoe\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.pdb
+C:\Users\User\Desktop\tictactoe\workshop\workshop\obj\Debug\netcoreapp3.1\workshop.genruntimeconfig.cache
