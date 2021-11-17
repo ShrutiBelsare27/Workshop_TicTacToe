@@ -9,7 +9,7 @@ namespace WorkshopTic_Tac_Toe
        
         public void chooseUserLetter()
         { 
-        Console.WriteLine("Choose the letter X otherwise O ");
+            Console.WriteLine("Choose the letter X otherwise O ");
             string letter = Console.ReadLine();
             if (letter == "X")
             {

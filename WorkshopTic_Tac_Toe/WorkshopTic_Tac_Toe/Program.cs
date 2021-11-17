@@ -13,6 +13,9 @@ namespace WorkshopTic_Tac_Toe
 
             ChooseUserLetter uc2 = new ChooseUserLetter();
             uc2.chooseUserLetter();
+
+            ShowBoard uc3 = new ShowBoard();
+            uc3.showBoard();
         }
     }
 }
