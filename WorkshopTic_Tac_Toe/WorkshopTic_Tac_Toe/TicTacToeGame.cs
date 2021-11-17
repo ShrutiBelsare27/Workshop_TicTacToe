@@ -11,9 +11,11 @@ namespace WorkshopTic_Tac_Toe
         char[] arr = new char[10];
         public void Board()
         {
-            for (int i = 1; i < arr.Length; i++)
+            for (int i = 0; i <= 9; i++)
             {
+            
                 Console.WriteLine(arr[i]);
+             
             }
         }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\WorkshopTic_Tac_Toe\\WorkshopTic_Tac_Toe\\WorkshopTic_Tac_Toe.csproj": {}
+    "C:\\Users\\User\\Desktop\\New folder (2)\\WorkshopTic_Tac_Toe\\WorkshopTic_Tac_Toe\\WorkshopTic_Tac_Toe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\WorkshopTic_Tac_Toe\\WorkshopTic_Tac_Toe\\WorkshopTic_Tac_Toe.csproj": {
+    "C:\\Users\\User\\Desktop\\New folder (2)\\WorkshopTic_Tac_Toe\\WorkshopTic_Tac_Toe\\WorkshopTic_Tac_Toe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\WorkshopTic_Tac_Toe\\WorkshopTic_Tac_Toe\\WorkshopTic_Tac_Toe.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder (2)\\WorkshopTic_Tac_Toe\\WorkshopTic_Tac_Toe\\WorkshopTic_Tac_Toe.csproj",
         "projectName": "WorkshopTic_Tac_Toe",
-        "projectPath": "C:\\Users\\User\\Desktop\\WorkshopTic_Tac_Toe\\WorkshopTic_Tac_Toe\\WorkshopTic_Tac_Toe.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\New folder (2)\\WorkshopTic_Tac_Toe\\WorkshopTic_Tac_Toe\\WorkshopTic_Tac_Toe.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\WorkshopTic_Tac_Toe\\WorkshopTic_Tac_Toe\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\New folder (2)\\WorkshopTic_Tac_Toe\\WorkshopTic_Tac_Toe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
